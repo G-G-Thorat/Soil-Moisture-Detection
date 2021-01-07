@@ -8,3 +8,6 @@ Here I used
 1 x 68 Ohm resistor
 1 x Through Hole (simple LED)
 1 x moisture sensor and module 
+
+# Running
+Run the moisdetect.py on the PI module after the connection setup
